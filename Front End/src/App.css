@@ -1,0 +1,14 @@
+.form{
+    width:27rem !important
+}
+Button{
+    background-color: #ffd831 !important;
+    color: black !important;
+    border: none !important
+    
+}
+Button:hover{
+    background-color: #857114 !important;
+    color: rgb(242, 235, 235) !important;
+
+}
